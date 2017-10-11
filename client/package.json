@@ -1,0 +1,16 @@
+{
+  "name": "school-pay",
+  "version": "2.0.0",
+  "description": "校园缴费助手微信小程序客户端",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gogokoala/schoolt-pay.git"
+  },
+  "keywords": [],
+  "author": "Steps.Ding",
+  "license": "MIT",
+  "dependencies": {
+    "wafer2-client-sdk": "^1.0.0"
+  }
+}
